@@ -1,12 +1,17 @@
 {
   "name": "Flower",
-  "description": "Flower is a web based tool for monitoring and administrating Celery clusters.",
+  "description": "Heroku-Celery-Monitor is a custom portal based on Flower for monitoring and administrating Celery]",
   "keywords": [
     "celery",
-    "monitor"
+    "monitor",
+    "heroku",
+    "rabbitmq",
+    "redis",
+    "broker",
+    "flower"
   ],
-  "website": "https://github.com/jpadilla/heroku-flower",
-  "repository": "https://github.com/jpadilla/heroku-flower",
+  "website": "https://github.com/bsab/heroku-celery-monitor.git",
+  "repository": "https://github.com/bsab/heroku-celery-monitor.git",
   "env": {
     "BROKER_URL": {
       "description": "Default broker URL.",
