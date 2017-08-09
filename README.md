@@ -18,6 +18,8 @@ Quick start
 -----------
 Click on deploy button and set the correct BROKER_URL and the FLOWER_BASIC_AUTH.
 
+![Preview](screen_config.png)
+
 ## Author
 
 [Sabatino Severino](https://about.me/the_sab), @bsab
